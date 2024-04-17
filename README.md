@@ -23,10 +23,10 @@ Fastify, Node.js, React, Typescript, Tailwindcss, Prisma, SQLite.
 ## 🚀 Getting Started
 To reproduce the project locally, follow these steps:
 
-### Pré-requisito:
+### Prerequisites:
 * Node.js v20.11.1
 
-#### Instalação
+#### Installation
 1. Clone this repository to your machine:
 ```
 git clone https://github.com/GabrielMartinsss/pass-in
